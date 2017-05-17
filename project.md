@@ -15,7 +15,7 @@ SWOT
 
 Диаграмма Исикавы
 ------
-![Исикавы](https://psv4.userapi.com/c812124/u295902670/docs/20ed6e38474a/Fishbone.jpg?extra=I86xxuLK1t-rUwYj1fpezkbhqPsHy_YXT_EtycaFnzg3BEPSUG9lPZZrvoeHdJ4Ip0wvlTUrIrgOWbReDpWpYyE8mCr98iey4hVDMgX5428aqu3RnehBfkE "Исикавы") 
+![Исикавы](https://lh4.googleusercontent.com/nDBVXki0VgWQOwY2W8GbYFzIa8G79fzcIfcWw07cUAAq7DCWUr4HmiHr7WO4ArJDkDakwPyOzEYzEJU=w1366-h638-rw "Исикавы") 
 
 Метод парных сравнений
 -------------
