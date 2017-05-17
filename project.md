@@ -35,4 +35,4 @@ SWOT
 
  Диаграмма Ганта 
  ----------------
-![ Диаграмма Ганта] (https://pp.userapi.com/c636621/v636621670/5b4ef/FKpYTHbuTUo.jpg "Диаграмма Ганта")
+![Диаграмма Ганта](https://pp.userapi.com/c636621/v636621670/5b4ef/FKpYTHbuTUo.jpg "Диаграмма Ганта")
